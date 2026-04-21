@@ -1,0 +1,5 @@
+# Meu Primeiro Projeto no GitHub
+Este repositório contém uma **Calculadora de IMC** desenvolvida em Python.
+
+### Como funciona:
+O programa solicita o peso e a altura do usuário, realiza o cálculo e exibe o resultado final.
